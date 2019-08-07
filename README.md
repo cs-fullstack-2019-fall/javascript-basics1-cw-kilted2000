@@ -1,5 +1,9 @@
 # JavaScript-Basics1-CW
 
+INCOMPLETE
+If you have issues cloning or pushing your project please ask Kenn, Kevin, or Autumn for help
+SCORE : 0
+
 Problem 1
 Print "Hello World"
 
